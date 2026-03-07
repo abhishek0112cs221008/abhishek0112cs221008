@@ -25,6 +25,13 @@ Passionate about building clean, efficient code
   <img src="https://nirzak-streak-stats.vercel.app/?user=abhishek0112cs221008&theme=dark&hide_border=false&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" alt="GitHub Streak" />
 </p>
 
+## LeetCode Stats
+<p align="center">
+  <a href="https://leetcode.com/abhishek8770" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/abhishek8770?theme=dark&font=Karma" alt="LeetCode Stats" />
+  </a>
+</p>
+
 <h2 align="center">Connect With Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/abhishek68" target="_blank">
