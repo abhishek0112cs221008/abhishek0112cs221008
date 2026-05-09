@@ -27,7 +27,7 @@ Passionate about building clean, efficient code
 
 ## LeetCode Stats
 <p align="center">
-  <a href="https://leetcode.com/abhishek8770" target="_blank">
+  <a href="https://leetcode.com/abhishek068" target="_blank">
     <img src="https://leetcard.jacoblin.cool/abhishek8770?theme=dark&font=Karma" alt="LeetCode Stats" />
   </a>
 </p>
